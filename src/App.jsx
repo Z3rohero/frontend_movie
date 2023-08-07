@@ -22,7 +22,7 @@ export default function App() {
 
         
         <section id="content" className="content">
-        <Listado/>
+        <Listado xd ,,,,/>
         </section>
 
         <aside className="lateral">
